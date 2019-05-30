@@ -1,3 +1,2 @@
 Hello
-This is a nice dog 
-I agree 
+This is a nice dog  
