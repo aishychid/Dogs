@@ -1,3 +1,4 @@
 Hello
 This is the best dog  
-There are other good dogs
+Conflicts resolved
+
